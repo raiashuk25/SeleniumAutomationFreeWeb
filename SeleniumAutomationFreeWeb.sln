@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAutomationFreeWeb", "SeleniumAutomationFreeWeb\SeleniumAutomationFreeWeb.csproj", "{A1461FCB-4B13-4E68-864F-428230B1E05D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1461FCB-4B13-4E68-864F-428230B1E05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1461FCB-4B13-4E68-864F-428230B1E05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1461FCB-4B13-4E68-864F-428230B1E05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1461FCB-4B13-4E68-864F-428230B1E05D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6484F06C-21BA-4FB9-9FE2-07CF7C64B3F6}
+	EndGlobalSection
+EndGlobal
